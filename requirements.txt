@@ -1,0 +1,6 @@
+azure-functions
+azure-storage-blob
+requests
+cryptography==42.0.8
+pytest
+flake8
